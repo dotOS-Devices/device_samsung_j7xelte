@@ -27,11 +27,8 @@ LOCAL_PATH := device/samsung/j7xelte
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_sec
 
-# SELinux
-BOARD_SEPOLICY_DIRS += device/samsung/on7xelte/sepolicy
-
 # Properties
 TARGET_SYSTEM_PROP += $(LOCAL_PATH)/system.prop
 
 # Inherit from the proprietary version
--include vendor/samsung/on7xelte/BoardConfigVendor.mk
+-include vendor/samsung/j7xelte/BoardConfigVendor.mk
