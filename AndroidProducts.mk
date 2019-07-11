@@ -18,4 +18,5 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/rr_j7xelte.mk \
 	$(LOCAL_DIR)/lineage_j7xelte.mk \
 	$(LOCAL_DIR)/dot_j7xelte.mk \
-	$(LOCAL_DIR)/havoc_j7xelte.mk
+	$(LOCAL_DIR)/havoc_j7xelte.mk \
+        $(LOCAL_DIR)/lotus_j7xelte.mk

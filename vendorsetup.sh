@@ -1,4 +1,4 @@
-for rom in rr dot lineage aosp havoc
+for rom in rr dot lineage aosp havoc lotus
 do
   for variant in user userdebug eng
   do
