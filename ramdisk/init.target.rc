@@ -116,5 +116,4 @@ service sswap /sbin/sswap -s -f 1536
     user root
     group root
     oneshot
-#Start Ril Daemon
-start ril-daemon
+
