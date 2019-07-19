@@ -1,13 +1,16 @@
-Device configuration for the Samsung Galaxy J7 2016
+This repository contains device configuration for Galaxy J7 2016 (J7xelte)
 
-Copyright (C) 2017 The LineageOS Project
-Copyright (C) 2017 Siddhant Naik
-Copyright (C) 2019 Ruturaj Kadam
+Basic   | Spec Sheet
+-------:|:----------
+CPU     | Octa-core 2.02 GHz ARM Cortex A53 
+Chipset | Exynos7870
+GPU     | Mali T830
+ROM     | 16 GB
+RAM     | 2 Gb
+Android | 6.0.0
+Battery | 3300 mAh
+Display | 1080x720 pixels, 
+Rear Camera  | 13MP
+Front Camera | 5 MP
 
- Licensed under the Apache License, Version 2.0 (the "License");
- you may not use this file except in compliance with the License.
- You may obtain a copy of the License at
-
-      http://www.apache.org/licenses/LICENSE-2.0
-
-------------------------------------------------------------------
+![Samsung Galaxy J7 2016](https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg "Samsung Galaxy J7 2016")
